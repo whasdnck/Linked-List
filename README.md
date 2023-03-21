@@ -1,4 +1,4 @@
-# Linked-List
+# Linked-List 란?
 
 ### 오늘은 Linked-List 라는 선형구조를 코딩했다.
 ### 연결 리스트는 자료들을 반드시 연속적으로 배열시키지는 않음.
@@ -22,3 +22,16 @@
 
 # Full Code
 ![화면 캡처 2023-03-21 102422](https://user-images.githubusercontent.com/127116197/226498651-b1a2e663-3503-4bb9-a51d-5c6d6e1e5eb4.png)
+
+
+# Stack이란?
+### 스택의 개념은 한 쪽 끝에서만 자료를 넣고 뺄 수 있는 LIFO(Last In First Out) 형식의 자료 구조 이다.
+### 스택(Stack)는 LIFO(Last In First Out) 를 따른다. 즉, 가장 최근에 스택에 추가한 항목이 가장 먼저 제거될 항목이다.
+
+### pop(): 스택에서 가장 위에 있는 항목을 제거한다.
+### push(item): item 하나를 스택의 가장 윗 부분에 추가한다.
+### peek(): 스택의 가장 위에 있는 항목을 반환한다.
+### isEmpty(): 스택이 비어 있을 때에 true를 반환한다.
+
+# Stack Full Code
+![화면 캡처 2023-03-21 114735](https://user-images.githubusercontent.com/127116197/226507044-2c274b0f-ea54-43d7-8602-81f68d128479.png)
