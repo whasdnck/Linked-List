@@ -19,7 +19,7 @@
 ## 헤드로 새로운 노드를 지정합니다.
 ![화면 캡처 2023-03-21 102140](https://user-images.githubusercontent.com/127116197/226498365-060c49fb-6f96-4af2-a6b2-1875aebc7c99.png)
 
-# Full Code
+# Full Code.
 ![화면 캡처 2023-03-21 102422](https://user-images.githubusercontent.com/127116197/226498651-b1a2e663-3503-4bb9-a51d-5c6d6e1e5eb4.png)
 
 
